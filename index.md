@@ -9,7 +9,7 @@ Bienvenidos a la plataforma de recolección de evidencias, donde se encontrarán
 - [Sesión 3](./sesion3.md)
 - [Sesión 4](./sesion4.md)
 - [Sesión 5](./sesion5.md)
-- [Sesión 6](./sesion6.md)
+
 
 ## Momento 2
 
