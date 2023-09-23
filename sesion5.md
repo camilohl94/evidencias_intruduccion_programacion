@@ -129,7 +129,7 @@ Aplicar los conocimientos sobre los tipos de etiquetas HTML para diseñar un for
           </div>
 
     </form>
-    <footer>
+    <footer >
         Nombre Completo
         <br><br>
         Juan camilo hernandez lopera

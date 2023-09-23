@@ -17,7 +17,7 @@ Las páginas del sitio serán:
 - Acerca
 - Contacto
 
-## Soloucion:
+## Solucion:
 
 ### index.html
 
